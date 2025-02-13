@@ -1,0 +1,16 @@
+# Ignore the virtual environment directory
+tenv/
+algo/tenv/
+forecasting/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
+*.env
